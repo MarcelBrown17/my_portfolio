@@ -1,0 +1,41 @@
+header{
+    padding: 10px;
+}
+
+.nav-bar{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.contact1 :hover {
+    padding: 3px;
+    background-color: rgb(68, 37, 242);
+    border-radius: 10px;
+    font-size: 25px;
+    text-transform: uppercase;
+  }
+  .home1 :hover {
+    padding: 5px;
+    background-color: rgb(68, 37, 242);
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 5px;
+    text-transform: uppercase;
+  }
+  
+  .about1 :hover {
+    padding: 5px;
+    background-color: rgb(68, 37, 242);
+    border-radius: 10px;
+    font-size: 25px;
+    text-transform: uppercase;
+  }
+.icons{
+    display:flex;
+    margin-left: 10px;
+}
+
+footer{
+    margin-top: 300px;
+}
